@@ -5,11 +5,11 @@
 ## **Programming languages I know:** 
 
 <div inline=true align="center">
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/cpp_logo.svg" alt="drawing" style="margin: 50px;"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/cs_logo.svg" alt="drawing" style="margin: 50px;"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/j_logo.svg" alt="drawing" style="margin: 50px;"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/js_logo.svg" alt="drawing" style="margin: 50px;"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/py_logo.svg" alt="drawing" style="margin: 50px;"/>
+    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/cpp_logo.svg" alt="drawing" width="70"/>
+    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/cs_logo.svg" alt="drawing" width="70"/>
+    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/j_logo.svg" alt="drawing" width="70"/>
+    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/js_logo.svg" alt="drawing" width="70"/>
+    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/py_logo.svg" alt="drawing" width="70"/>
 </div>
 
 ## **Frameworks I have worked with:**
