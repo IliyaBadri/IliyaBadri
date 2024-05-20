@@ -27,7 +27,6 @@
   - Express
   - Discord API
   - Telegram API
-  - Tensorflow.js
   - **Examples:**
 	  - [Discord-self-role](https://github.com/IliyaBadri/Discord-self-role)
 	  - [Discord-multi-role](https://github.com/IliyaBadri/Discord-multi-role)
