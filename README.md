@@ -13,32 +13,19 @@
     <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/py_logo.svg" alt="drawing" width="70"/>
 </div>
 
-## **Frameworks I have worked with:**
+## **Environments I have worked with:**
 - **C++**
-	- **Examples:**
-		- [GraphC](https://github.com/IliyaBadri/GraphC) 
+	- [GraphC](https://github.com/IliyaBadri/GraphC) 
 - **C#**
-	-  Unity
-	- .NET MAUI
-	- Windows Forms
-	- **Examples:**
-		- [Notebook](https://github.com/enterace/Notebook)
-		- [DownTube](https://github.com/enterace/DownTube)
-		- [EnLaunch](https://github.com/IliyaBadri/EnLaunch)
+	- [Notebook](https://github.com/enterace/Notebook)
+	- [DownTube](https://github.com/enterace/DownTube)
+	- [EnLaunch](https://github.com/IliyaBadri/EnLaunch)
 	
-- **Node.js** 
-  - Express
-  - Discord API
-  - Telegram API
-  - **Examples:**
-	  - [Discord-self-role](https://github.com/IliyaBadri/Discord-self-role)
-	  - [Discord-multi-role](https://github.com/IliyaBadri/Discord-multi-role)
-	  - [Telegram-downloader](https://github.com/IliyaBadri/Telegram-downloader)
+- **Node.js**
+	- [Discord-self-role](https://github.com/IliyaBadri/Discord-self-role)
+	- [Discord-multi-role](https://github.com/IliyaBadri/Discord-multi-role)
+	- [Telegram-downloader](https://github.com/IliyaBadri/Telegram-downloader)
 
 - **Python**
-	- Huggingface ( Transformers, Llama.cpp, . . . )
-	- Flask
-	- TKinter
-	- **Examples:**
-		- [PythonObfuscator](https://github.com/IliyaBadri/PythonObfuscator)
-		- [EnterPass](https://github.com/enterace/EnterPass)
+	- [PythonObfuscator](https://github.com/IliyaBadri/PythonObfuscator)
+	- [EnterPass](https://github.com/enterace/EnterPass)
