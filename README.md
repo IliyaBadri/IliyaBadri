@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/py_logo.svg" alt="drawing" width="70"/>
 </div>
 
-## **Environments I have worked with:**
+## **My projects:**
 - **C++**
 	- [GraphC](https://github.com/IliyaBadri/GraphC) 
 - **C#**
