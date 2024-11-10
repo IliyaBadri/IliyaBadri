@@ -1,8 +1,6 @@
 
 # Hi, I’m Iliya Badri
 
-- I’m interested in Software engineering, programming and ethical hacking.
-
 ## **Programming languages I know:** 
 
 <div inline=true align="center">
