@@ -1,16 +1,6 @@
 
 # Hi, I’m Iliya Badri
 
-## **Programming languages I know:** 
-
-<div inline=true align="center">
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/cpp_logo.svg" alt="drawing" width="70"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/cs_logo.svg" alt="drawing" width="70"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/j_logo.svg" alt="drawing" width="70"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/js_logo.svg" alt="drawing" width="70"/>
-    <img src="https://raw.githubusercontent.com/IliyaBadri/IliyaBadri/main/py_logo.svg" alt="drawing" width="70"/>
-</div>
-
 ## **My projects:**
 - **C++**
 	- [GraphC](https://github.com/IliyaBadri/GraphC) 
