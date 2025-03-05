@@ -5,7 +5,7 @@
 - **C++**
 	- [GraphC](https://github.com/IliyaBadri/GraphC)
 
--**Go**
+- **Go**
 	- [gologger](https://github.com/IliyaBadri/gologger)
 
 - **Python**
