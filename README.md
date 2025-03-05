@@ -6,7 +6,7 @@
 	- [GraphC](https://github.com/IliyaBadri/GraphC)
 
 -**Go**
-	-[gologger](https://github.com/IliyaBadri/gologger)
+	- [gologger](https://github.com/IliyaBadri/gologger)
 
 - **Python**
   	- [local_gpt2](https://github.com/IliyaBadri/local_gpt2)
