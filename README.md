@@ -9,6 +9,7 @@
 	- [gologger](https://github.com/IliyaBadri/gologger)
 
 - **Python**
+	- [StaticBuilder](https://github.com/IliyaBadri/StaticBuilder)
   	- [local_gpt2](https://github.com/IliyaBadri/local_gpt2)
 	- [PythonObfuscator](https://github.com/IliyaBadri/PythonObfuscator)
 	- [EnterPass](https://github.com/enterace/EnterPass)
