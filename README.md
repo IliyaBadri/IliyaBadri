@@ -14,11 +14,11 @@
 	- [StaticBuilder](https://github.com/IliyaBadri/StaticBuilder)
   	- [local_gpt2](https://github.com/IliyaBadri/local_gpt2)
 	- [PythonObfuscator](https://github.com/IliyaBadri/PythonObfuscator)
-	- [EnterPass](https://github.com/enterace/EnterPass)
+	- [EnterPass](https://github.com/IliyaBadri/EnterPass)
 
 - **C#**
-	- [Notebook](https://github.com/enterace/Notebook)
-	- [DownTube](https://github.com/enterace/DownTube)
+	- [Notebook](https://github.com/IliyaBadri/Notebook)
+	- [DownTube](https://github.com/IliyaBadri/DownTube)
 	- [EnLaunch](https://github.com/IliyaBadri/EnLaunch)
 	
 - **Node.js**
