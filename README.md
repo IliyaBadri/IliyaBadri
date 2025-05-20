@@ -9,6 +9,7 @@
 	- [gologger](https://github.com/IliyaBadri/gologger)
 
 - **Python**
+	- [Paranoia](https://github.com/IliyaBadri/Paranoia) 
   	- [TextToSpeech](https://github.com/IliyaBadri/TextToSpeech)
 	- [StaticBuilder](https://github.com/IliyaBadri/StaticBuilder)
   	- [local_gpt2](https://github.com/IliyaBadri/local_gpt2)
